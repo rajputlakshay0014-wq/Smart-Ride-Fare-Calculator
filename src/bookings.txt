@@ -1,0 +1,3 @@
+1001|TGFrc2hheSByYW5h|Mini|102.0|false
+1002|bHVja3kgcmFuYQ==|Premium|103.0|true
+1003|a2FyYW4=|Bike|10.0|false
